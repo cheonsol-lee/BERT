@@ -20,5 +20,5 @@ Run jupyter file
 
 ## Results
 
-Input data : review
-Output data : sentiment, emotion labels
+- Input data : review
+- Output data : sentiment, emotion labels
